@@ -1,0 +1,64 @@
+BriggsSplosion!
+
+Files/Responsibilities
+1. Install PKG responsible for creating
+	a. Copy real image to location for viewing
+	b. Open real image
+	c. Scheduled Task
+	d. Startup Item
+	e. Scheduled Job
+
+2. Infected Shell
+	a. Check filedate from network location
+		i. If filedate doesn't match hardcoded date, copy new version and reload script
+	b. Check Startup item/Scheduled tasks/jobs are enabled
+	c. Check username
+		i. If Username = RJ or Jake, run infected files with -logonly switch
+	c. Execute scripts in the network location
+	d. Send an email?
+
+
+Payload
+1. Volume:
+	a. Sound profile changer
+	a. Startup sounds
+	b. Rick Roll
+	c. Volume changer - rolls up/down gradually
+2. Desktop background changer
+3. Random keys
+	a. At random intervals/random kes
+	b. Random phrases
+4. Sticky notes with personal information
+	a. Anniversary reminders
+5. Popup messages
+	a. "God is watching you."
+	b. "Congratulations on the wedding"
+	c. 
+6. Add calendar events
+	a. obnoxiously fake
+	b. "Peanut Butter Jelly Time"
+		i. opens a website after a countdown
+	c. Place events on calendar after 
+7. Toggle caps lock randomly
+8. Modify Autocorrect file in Office
+9. Eject CD Drive
+10. URL redirection
+11. AOL bomb
+	a. AOL default browser
+	b. Reskin any applications
+	c. Install Messenger
+	d. Default Search Provider
+	e. Put Free AOL trial disc in computer - CD Tray ejects on completion
+	f. Homepage
+	g. Desktop Background
+	h. 
+12. NetScape
+13. AutoRun.inf
+14. Display Settings
+	a. Zoom in/out
+	b. Low resolution
+15. Icon Changing
+16. WinRAR popup
+17. Lock Computer
+	a. Shutdown Computer
+18. 
